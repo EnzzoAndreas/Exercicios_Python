@@ -1,0 +1,2 @@
+Esse Módulo e direcionado a introdução e algumas diretrizes do Git e GitHub, 
+portanto não levantarei nenhuma atividade realizada nesta semana. 
